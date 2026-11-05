@@ -38,38 +38,38 @@ The main goal is to develop practical Python skills, understand core programming
 
 ## 📅 30-Day Learning Plan
 
-| Day | Date | Topic | Status |
-|---|---|---|---|
-| 01 | 2026-11-04 | Python Introduction, Interpreter, Variables | [ ] |
-| 02 | 2026-11-05 | Data Types and Type Conversion | [ ] |
-| 03 | 2026-11-06 | Operators and Expressions | [ ] |
-| 04 | 2026-11-07 | Strings and String Methods | [ ] |
-| 05 | 2026-11-08 | Conditional Statements | [ ] |
-| 06 | 2026-11-09 | Loops: for, while, range | [ ] |
-| 07 | 2026-11-10 | Review + Project 01: Smart Calculator | [ ] |
-| 08 | 2026-11-11 | Lists and List Methods | [ ] |
-| 09 | 2026-11-12 | Tuples and Sets | [ ] |
-| 10 | 2026-11-13 | Dictionaries | [ ] |
-| 11 | 2026-11-14 | Functions and Return Values | [ ] |
-| 12 | 2026-11-15 | Function Arguments, Scope, *args, **kwargs | [ ] |
-| 13 | 2026-11-16 | Comprehensions and Lambda | [ ] |
-| 14 | 2026-11-17 | Review + Project 02: Expense Tracker | [ ] |
-| 15 | 2026-11-18 | File Handling | [ ] |
-| 16 | 2026-11-19 | JSON and CSV | [ ] |
-| 17 | 2026-11-20 | Exception Handling | [ ] |
-| 18 | 2026-11-21 | Modules, Packages and Virtual Environments | [ ] |
-| 19 | 2026-11-22 | OOP: Classes and Objects | [ ] |
-| 20 | 2026-11-23 | Inheritance, Encapsulation, Polymorphism | [ ] |
-| 21 | 2026-11-24 | Review + Project 03: Inventory Management | [ ] |
-| 22 | 2026-11-25 | Iterators and Generators | [ ] |
-| 23 | 2026-11-26 | Datetime and Regular Expressions | [ ] |
-| 24 | 2026-11-27 | NumPy and Pandas Basics | [ ] |
-| 25 | 2026-11-28 | HTTP, REST API and Requests | [ ] |
-| 26 | 2026-11-29 | PostgreSQL and Python Database Connectivity | [ ] |
-| 27 | 2026-11-30 | Logging, Error Handling and Pytest | [ ] |
-| 28 | 2026-12-01 | ETL Fundamentals + Project 04: Sales Analyzer | [ ] |
-| 29 | 2026-12-02 | Final Project: Extract and Transform | [ ] |
-| 30 | 2026-12-03 | Final Project: Load, Testing and Documentation | [ ] |
+| Day | Date       | Topic                                          | Status |
+| --- | ---------- | ---------------------------------------------- | ------ |
+| 01  | 2026-11-04 | Python Introduction, Interpreter, Variables    | ✅      |
+| 02  | 2026-11-05 | Data Types and Type Conversion                 | [ ]    |
+| 03  | 2026-11-06 | Operators and Expressions                      | [ ]    |
+| 04  | 2026-11-07 | Strings and String Methods                     | [ ]    |
+| 05  | 2026-11-08 | Conditional Statements                         | [ ]    |
+| 06  | 2026-11-09 | Loops: for, while, range                       | [ ]    |
+| 07  | 2026-11-10 | Review + Project 01: Smart Calculator          | [ ]    |
+| 08  | 2026-11-11 | Lists and List Methods                         | [ ]    |
+| 09  | 2026-11-12 | Tuples and Sets                                | [ ]    |
+| 10  | 2026-11-13 | Dictionaries                                   | [ ]    |
+| 11  | 2026-11-14 | Functions and Return Values                    | [ ]    |
+| 12  | 2026-11-15 | Function Arguments, Scope, *args, **kwargs     | [ ]    |
+| 13  | 2026-11-16 | Comprehensions and Lambda                      | [ ]    |
+| 14  | 2026-11-17 | Review + Project 02: Expense Tracker           | [ ]    |
+| 15  | 2026-11-18 | File Handling                                  | [ ]    |
+| 16  | 2026-11-19 | JSON and CSV                                   | [ ]    |
+| 17  | 2026-11-20 | Exception Handling                             | [ ]    |
+| 18  | 2026-11-21 | Modules, Packages and Virtual Environments     | [ ]    |
+| 19  | 2026-11-22 | OOP: Classes and Objects                       | [ ]    |
+| 20  | 2026-11-23 | Inheritance, Encapsulation, Polymorphism       | [ ]    |
+| 21  | 2026-11-24 | Review + Project 03: Inventory Management      | [ ]    |
+| 22  | 2026-11-25 | Iterators and Generators                       | [ ]    |
+| 23  | 2026-11-26 | Datetime and Regular Expressions               | [ ]    |
+| 24  | 2026-11-27 | NumPy and Pandas Basics                        | [ ]    |
+| 25  | 2026-11-28 | HTTP, REST API and Requests                    | [ ]    |
+| 26  | 2026-11-29 | PostgreSQL and Python Database Connectivity    | [ ]    |
+| 27  | 2026-11-30 | Logging, Error Handling and Pytest             | [ ]    |
+| 28  | 2026-12-01 | ETL Fundamentals + Project 04: Sales Analyzer  | [ ]    |
+| 29  | 2026-12-02 | Final Project: Extract and Transform           | [ ]    |
+| 30  | 2026-12-03 | Final Project: Load, Testing and Documentation | [ ]    |
 
 ---
 
