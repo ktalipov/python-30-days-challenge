@@ -42,7 +42,7 @@ The main goal is to develop practical Python skills, understand core programming
 | --- | ---------- | ---------------------------------------------- | ------ |
 | 01  | 2026-11-04 | Python Introduction, Interpreter, Variables    | ✅      |
 | 02  | 2026-11-05 | Data Types and Type Conversion                 | ✅      |
-| 03  | 2026-11-06 | Operators and Expressions                      | [ ]    |
+| 03  | 2026-11-06 | Operators and Expressions                      | ✅      |
 | 04  | 2026-11-07 | Strings and String Methods                     | [ ]    |
 | 05  | 2026-11-08 | Conditional Statements                         | [ ]    |
 | 06  | 2026-11-09 | Loops: for, while, range                       | [ ]    |
