@@ -45,8 +45,8 @@ The main goal is to develop practical Python skills, understand core programming
 | 03  | 2026-11-06 | Operators and Expressions                      | ✅      |
 | 04  | 2026-11-07 | Strings and String Methods                     | ✅      |
 | 05  | 2026-11-08 | Conditional Statements                         | ✅      |
-| 06  | 2026-11-09 | Loops: for, while, range                       | [ ]    |
-| 07  | 2026-11-10 | Review + Project 01: Smart Calculator          | [ ]    |
+| 06  | 2026-11-09 | Loops: for, while, range                       | ✅      |
+| 07  | 2026-11-10 | Review + Project 01: Smart Calculator          | ✅      |
 | 08  | 2026-11-11 | Lists and List Methods                         | [ ]    |
 | 09  | 2026-11-12 | Tuples and Sets                                | [ ]    |
 | 10  | 2026-11-13 | Dictionaries                                   | [ ]    |
